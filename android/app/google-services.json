@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "993327291268",
+    "firebase_url": "https://erouk-d0bd9.firebaseio.com",
+    "project_id": "erouk-d0bd9",
+    "storage_bucket": "erouk-d0bd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993327291268:android:a033329dcca3902c",
+        "android_client_info": {
+          "package_name": "com.erouk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993327291268-s4nn067q3b1mgb9rsqmvdegeclt15v30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erouk",
+            "certificate_hash": "d2eb74abcf7b4ebcf8032adfe78454e19cdf1a1f"
+          }
+        },
+        {
+          "client_id": "993327291268-glq72f5oihhljsidi4d479cgbjm9372b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erouk",
+            "certificate_hash": "ab3dcb8a729b9cdf21b5f2c43084c73e850ac5de"
+          }
+        },
+        {
+          "client_id": "993327291268-td4aqi71vh6gu0adaao2juamrfqnn32i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4AOHSmuPn0qyB8g_E2uDHhSXCrtRMLQo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993327291268-td4aqi71vh6gu0adaao2juamrfqnn32i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

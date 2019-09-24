@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Erouk</string>
+    <string name="facebook_app_id">959807077522243</string>
+        <string name="fb_login_protocol_scheme">fb{959807077522243}</string>
+</resources>
